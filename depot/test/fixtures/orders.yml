@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: Dave Thomas
+  address: MyText
+  emai: dave@example.org
+  pay_type: Check
+
+two:
+  name: MyString
+  address: MyText
+  emai: MyString
+  pay_type: MyString
